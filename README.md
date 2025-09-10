@@ -2,11 +2,10 @@
 - 🌱 I’m currently studying Computer Science and Engineering at RUET
 - 📫 How to reach me : nahidmuntasir2@gmail.com
 
-![Profile Banner](https://img.shields.io/badge/Welcome-to_my_GitHub-blue?style=for-the-badge)
 
 ## 📫 How to Reach Me
 - Email: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)  
-- LinkedIn: [linkedin.com/in/NahidMuntasir](https://www.linkedin.com/in/NahidMuntasir)  
+- LinkedIn: [linkedin.com/in/NahidMuntasir](https://www.linkedin.com/in/nahid-muntasir-rifat/)  
 
 ## 🛠️ Tech & Tools
 - **Programming Languages:** Python, C, C++, Java, JavaScript, SQL  
