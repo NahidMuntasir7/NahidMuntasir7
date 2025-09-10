@@ -7,8 +7,3 @@
 - **Web Development:** HTML, CSS, React, MySQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
 - **Other Tools:** Git, GitHub
-  
-## 🚀 Projects & Interests
-- Deep Learning & AI research projects  
-- Natural Language Processing
-- Machine Learning model deployment & MLOps
