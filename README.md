@@ -10,13 +10,8 @@
 - **Web Development:** HTML, CSS, React, Node.js, Express.js, MongoDB, MySQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
 - **Other Tools:** Git, GitHub
-
-
-
-## 📈 GitHub Stats
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahidMuntasir7&show_icons=true&theme=tokyonight)
+- 
 ## 🚀 Projects & Interests
 - Deep Learning & AI research projects  
-- Natural Language Processing (Bangla & English datasets)  
-- Full-stack web development  
+- Natural Language Processing
 - Machine Learning model deployment & MLOps
