@@ -24,6 +24,10 @@
 - **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
 - **Other Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
+
+
+## 📈 GitHub Stats
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahidMuntasir7&show_icons=true&theme=tokyonight)
 ## 🚀 Projects & Interests
 - Deep Learning & AI research projects  
 - Natural Language Processing (Bangla & English datasets)  
