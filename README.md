@@ -10,7 +10,7 @@
 ## 🛠️ Tech & Tools
 - **Programming Languages:** Python, C, C++, Java, JavaScript, SQL  
 - **Web Development:** HTML, CSS, React, Node.js, Express.js, MongoDB, MySQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
+- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
 - **Other Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
 
