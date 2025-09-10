@@ -2,8 +2,7 @@
 - 🌱 I’m currently pursuing Computer Science and Engineering at **RUET**
 
 ## 📫 How to Reach Me
-- Email: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)  
-- LinkedIn: [linkedin.com/in/NahidMuntasir](https://www.linkedin.com/in/nahid-muntasir-rifat/)  
+- Email: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
 
 ## 🛠️ Tech & Tools
 - **Programming Languages:** Python, C, C++, Java, JavaScript, SQL  
