@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@NahidMuntasir7**
 - 🌱 I’m currently pursuing Computer Science and Engineering at **RUET**
 - 🤖 Specializing in Deep Learning and Natural Language Processing (NLP) 
-- 🧩 Have fundamentals of Data Science, ML, DL, Generative AI, LLMs, VLms, NLP, and Computer Vision  
+- 🧩 Have fundamentals of Data Science, ML, DL, Generative AI, LLMs, VLMs, NLP, and Computer Vision  
 - 🚀 Working on AI-powered projects and exploring modern AI Engineering pipelines  
 - 🤝 Open to collaborating on impactful research, AI projects, hackathons, and datathons
 - 📫 Reach me at: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
