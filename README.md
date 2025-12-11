@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/NahidMuntasir7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="YOUR_LEETCODE_URL">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
@@ -28,42 +24,8 @@
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESEARCHGATE_URL">
+<a href="https://www.researchgate.net/profile/Nahid-Montasir-Rifat">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 
-
-
-
-
-
-### 🌐 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-</a>
-
-<a href="https://github.com/NahidMuntasir7">
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeForces.svg" width="48" />
-</a>
-
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="48" />
-</a>
-
-<a href="YOUR_RESEARCHGATE_URL">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="48" />
-</a>
-
-</p>
 
