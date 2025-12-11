@@ -8,10 +8,6 @@
 
 ### 🌐 Connect with Me
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/nahid-muntasir-rifat/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -22,6 +18,10 @@
 
 <a href="https://codeforces.com/profile/Rifat_7">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/nahidmuntasirrifat">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://scholar.google.com/citations?user=JreajlsAAAAJ&hl=en">
