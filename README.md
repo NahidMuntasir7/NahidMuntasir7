@@ -39,27 +39,31 @@
 
 ### 🌐 Connect with Me
 
+<p align="left">
+
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
 <a href="https://github.com/NahidMuntasir7">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
 </a>
 
 <a href="YOUR_LEETCODE_URL">
-  <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="40" />
+  <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
 </a>
 
 <a href="YOUR_CODEFORCES_URL">
-  <img src="https://sta.codeforces.com/s/98131/images/codeforces-logo-with-telegram.png" width="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeForces.svg" width="48" />
 </a>
 
 <a href="YOUR_GOOGLE_SCHOLAR_URL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="48" />
 </a>
 
 <a href="YOUR_RESEARCHGATE_URL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="48" />
 </a>
+
+</p>
 
