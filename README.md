@@ -8,19 +8,19 @@
 
 ### 🌐 Connect with Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nahid-muntasir-rifat/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/NahidMuntasir7/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_CODEFORCES_URL">
+<a href="https://codeforces.com/profile/Rifat_7">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
+<a href="https://scholar.google.com/citations?user=JreajlsAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
