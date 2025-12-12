@@ -32,4 +32,5 @@
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=NahidMuntasir7&style=flat&color=blue)
 
