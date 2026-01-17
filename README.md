@@ -28,25 +28,18 @@
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
-<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
-  <img src="https://img.shields.io/badge/ACL_Anthology-8B0000?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
-
-<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
-  <img src="https://img.shields.io/badge/ACL_Anthology-RED?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
-
-
 <a href="https://www.researchgate.net/profile/Nahid-Montasir-Rifat">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 
-<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
-  <img src="https://img.shields.io/badge/ACL_Anthology-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
 
 <a href="https://aclanthology.org/people/YOUR-ACL-ID/">
   <img src="https://img.shields.io/badge/ACL_Anthology-C8102E?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+
+<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
+  <img src="https://img.shields.io/badge/ACL_Anthology-C8102E?style=for-the-badge&logoColor=white&logoUrl=https://aclanthology.org/static/img/acl-logo.svg"/>
 </a>
 
 
