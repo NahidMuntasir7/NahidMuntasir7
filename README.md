@@ -32,4 +32,8 @@
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 
+<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
+  <img src="https://img.shields.io/badge/ACL_Anthology-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
 
