@@ -38,8 +38,8 @@
 </a>
 
 
-<a href="https://aclanthology.org/people/YOUR-ACL-ID/">
-  <img src="https://img.shields.io/badge/ACL_Anthology-C8102E?style=for-the-badge&logoColor=white&logoUrl=https://aclanthology.org/static/img/acl-logo.svg"/>
+<a href="https://aclanthology.org/people/n/nahid-montasir-rifat/">
+  <img src="https://img.shields.io/badge/ACL_Anthology-C8102E?style=for-the-badge&logoColor=white&logoUrl=https://aclanthology.org/images/acl-logo-square.svg"/>
 </a>
 
 
