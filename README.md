@@ -2,7 +2,6 @@
 - 🌱 I’m currently pursuing Computer Science and Engineering at **RUET**
 - 🤖 Specializing in Deep Learning and Computational Linguistics
 - 🧩 Have fundamentals of Data Science, Machine Learning, Deep Learning, GenAI, NLP, LLMs, Agentic AI, and Computer Vision
-<!-- - 🚀 Working on AI-powered projects and exploring modern AI Engineering pipelines -->
 - 🤝 Open to collaborating on impactful research, AI projects, and datathons
 - 📫 Reach me at: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
 
@@ -37,4 +36,4 @@
   <img src="https://img.shields.io/badge/ACL_Anthology-C8102E?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
-
+<!-- - 🚀 Working on AI-powered projects and exploring modern AI Engineering pipelines -->
