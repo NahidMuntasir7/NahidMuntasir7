@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@NahidMuntasir7**
 - 🌱 I’m currently pursuing Computer Science and Engineering at **RUET**
 - 🤖 Specializing in Deep Learning and Computational Linguistics
-- 🧩 Practical experience in Data Science, Machine Learning, Deep Learning, GenAI, NLP, LLMs, Agentic AI, and Computer Vision
+- 🧩 Hands-on experience in Data Science, Machine Learning, Deep Learning, GenAI, NLP, LLMs, Agentic AI, and Computer Vision
 - 🤝 Open to collaborating on impactful research, AI projects, and datathons
 - 📫 Reach me at: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
 
