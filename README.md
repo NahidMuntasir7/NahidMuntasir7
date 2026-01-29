@@ -5,7 +5,7 @@
 - 🤝 Open to collaborating on impactful research, AI projects, and datathons
 - 📫 Reach me at: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
 
-#### 🌐 Connect with Me
+#### 🌐 Important Links
 
 <a href="https://www.linkedin.com/in/nahid-muntasir-rifat/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
