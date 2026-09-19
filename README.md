@@ -2,7 +2,6 @@
 - 🌱 I’m a Computer Science and Engineering graduate from **RUET**
 - 🤖 I am interested in Deep Learning, NLP, Cognitive Science, and intelligent systems.
 - 🧩 Practical experience in Data Science, Machine Learning, Deep Learning, NLP, LLMs, Agentic AI, and Computer Vision
-- 🤝 Open to collaborating on impactful research, AI projects, and datathons
 - 📫 Reach me at: [nahidmuntasir2@gmail.com](mailto:nahidmuntasir2@gmail.com)
 
 #### 🌐 Important Links
